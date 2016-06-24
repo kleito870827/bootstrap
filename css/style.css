@@ -1,0 +1,31 @@
+.cuadrado-blanco{
+width:100px;
+height:100px;
+background:white;
+font-family:arial;
+font-weight:bold;
+color:white;
+}
+.cuadrado-negro{
+width:100px;
+height:100px;
+background:black;
+font-family:arial;
+font-weight:bold;
+color:black;
+}
+.row{
+width: 1200px;
+}
+#blanco {
+background-color: white;
+}
+#blanco:hover {
+background-color: blue;
+}
+#negro {
+background-color: black;
+}
+#negro:hover {
+background-color: green;
+}
